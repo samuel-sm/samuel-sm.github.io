@@ -1,0 +1,352 @@
+[
+    {
+      "codigo": "CM1SM13",
+      "nome": "Computador Quântico",
+      "categorias": [
+        "Computação",
+        "Física Quântica"
+      ],
+      "efeito": false,
+      "cor": "#f4c430",
+      "nivel": 9,
+      "texto": [
+        "O que é mecânica quântica? O que é a superposição em uma partícula quântica?",
+        "O que é a computação quântica? Como ele se difere da computação comum?",
+        "O que é e como funciona um qbit?",
+        "Em que áreas da computação um computador quântico poderia ser mais revolucionário?",
+        "Em que ponto está a computação quântica? quais os desafios para avançar nesses equipamentos?"
+      ]
+    },
+    {
+      "codigo": "PY3SM01",
+      "nome": "Anomalia Magnética do Atlântico Sul",
+      "categorias": [
+        "Física"
+      ],
+      "efeito": false,
+      "cor": "#324ab2",
+      "nivel": 9,
+      "texto": [
+        "O que é e como funciona o campo magnético da Terra?",
+        "Qual a importância do campo magnético da Terra?",
+        "O que é a Anomalia Magnética do Atlântico Sul?",
+        "Quais são as teorias que explicam a origem e evolução da anomalia?",
+        "Como a anomalia afeta a vida na Terra, especialmente em relação à tecnologia?"
+      ]
+    },
+    {
+      "codigo": "FL1SM10",
+      "nome": "O Ápeiron de Anaximandro de Mileto",
+      "categorias": [
+        "Filosofia",
+        "História"
+      ],
+      "efeito": false,
+      "cor": "#b38b6d",
+      "nivel": 9,
+      "texto": [
+        "Quem foi Anaximandro de Mileto?",
+        "O que é a cosmologia anaximandrina?",
+        "Como o Ápeiron se diferencia das concepções de arché de outros filósofos pré-socráticos?",
+        "Quais as implicações do Ápeiron para a compreensão da natureza e da realidade?",
+        "Como o conceito de Ápeiron pode ser interpretado a a luz da ciência moderna?"
+      ]
+    },
+    {
+      "codigo": "MT3FR02",
+      "nome": "Criptografia: cifras, códigos e chaves",
+      "categorias": [
+        "Matemática",
+        "Computação"
+      ],
+      "efeito": false,
+      "cor": "#ff7f50",
+      "nivel": 7,
+      "texto": [
+        "O que é criptografia?",
+        "Breve histórico da criptografia: como surgiu e como foi usada em diferentes épocas",
+        "O que é uma cifra? Cite exemplos de cifras",
+        "O que são códigos no contexto da criptografia?",
+        "O que é uma chave criptográfica? Como ela é usada?"
+      ]
+    },
+    {
+      "codigo": "CM3FR03",
+      "nome": "Esteganografia",
+      "categorias": [
+        "Computação",
+        "Matemática"
+      ],
+      "efeito": false,
+      "cor": "#f4c430",
+      "nivel": 8,
+      "texto": [
+        "O que é esteganografia e como ela se diferencia da criptografia comum?",
+        "Quais são as origens históricas da esteganografia?",
+        "Em que cenário a esteganografia o uso da esteganografia é apropiado?",
+        "Como é feita a esteganografia na prática?"
+      ]
+    },
+    {
+      "codigo": "LN3FR04",
+      "nome": "Taquigrafia",
+      "categorias": [
+        "Linguística"
+      ],
+      "efeito": false,
+      "cor": "#44b880",
+      "nivel": 6,
+      "texto": [
+        "O que é taquigrafia e quais são as suas origens?",
+        "Qual o papel da taquigrafia em diferentes momentos históricos?",
+        "Quais são os principais sistemas de taquigrafia utilizados atualmente?",
+        "A taquigrafia ainda é relevante em um mundo dominado por gravações de áudio e vídeo?"
+      ]
+    },
+    {
+      "codigo": "LN3FR05",
+      "nome": "Estenotipia",
+      "categorias": [
+        "Linguística"
+      ],
+      "efeito": false,
+      "cor": "#44b880",
+      "nivel": 6,
+      "texto": [
+        "O que é estenotipia e quais as suas origens?",
+        "Onde a estenotipia foi usada ao longo da história?",
+        "Onde a estenotipia é usada atualmente?",
+        "Quais as ferramentas utilizadas para estenotipia?",
+        "Qual o futuro da Estenotipia? Como as novas tecnologias podem afetá-la?"
+      ]
+    },
+    {
+      "codigo": "LN3FR06",
+      "nome": "Semáfora: sinalização a curta distância",
+      "categorias": [
+        "Linguística"
+      ],
+      "efeito": false,
+      "cor": "#44b880",
+      "nivel": 5,
+      "texto": [
+        "O que é o código semafórico?",
+        "Como funciona o sistema de sinais do código semafórico?",
+        "Qual a origem do código semafórico e onde ele foi utilizado ao decorrer do anos?",
+        "Quais elementos são utilizados para a sinalização?",
+        "Quais são as principais áreas de aplicação do código semafórico na atualidade?"
+      ]
+    },
+    {
+      "codigo": "LN3FR07",
+      "nome": "Código Morse",
+      "categorias": [
+        "Linguística",
+        "Computação"
+      ],
+      "efeito": false,
+      "cor": "#44b880",
+      "nivel": 5,
+      "texto": [
+        "Quais são as origens do Código Morse e quem foi seu criador?",
+        "Qual foi o papel do Código Morse em diferentes momentos históricos?",
+        "Como é o alfabeto em código morse? Qual a relação entre cada letra e o seu código morse?",
+        "Qual o impacto cultural do Código Morse? ",
+        "Qual a função do código morse na atualidade e qual o seu futuro?"
+      ]
+    },
+    {
+      "codigo": "HS3FR08",
+      "nome": "Telegrafia visual",
+      "categorias": [
+        "História",
+        "Linguística"
+      ],
+      "efeito": false,
+      "cor": "#ff3d3d",
+      "nivel": 5,
+      "texto": [
+        "O que é telegrafia visual e qual a sua origem?",
+        "Como a telegrafia visual foi utilizada na história?",
+        "Quais são os principais sistemas de sinais visuais utilizados na telegrafia?",
+        "Como os sistemas de sinais visuais se adaptam a diferentes terrenos e condições climáticas?",
+        "A telegrafia visual ainda é relevante em algum contexto contemporâneo?"
+      ]
+    },
+    {
+      "codigo": "BO3FR09",
+      "nome": "Dendrocronologia",
+      "categorias": [
+        "Biologia",
+        "Arqueologia"
+      ],
+      "efeito": false,
+      "cor": "#03c03c",
+      "nivel": 6,
+      "texto": [
+        "O que é dendrocronologia e como ela funciona?",
+        "Quais são os fatores ambientais que influenciam a formação dos anéis de crescimento?",
+        "Quais são as principais técnicas utilizadas na análise dos anéis de crescimento?",
+        "Como a dendrocronologia contribui para a compreensão das mudanças climáticas ao longo da história?",
+        "Quais as contribuições da dendrocronologia para o estudo da história ambiental brasileira?"
+      ]
+    },
+    {
+      "codigo": "PY3FR10",
+      "nome": "Radiogoniometria",
+      "categorias": [
+        "Física",
+        "Matemática"
+      ],
+      "efeito": false,
+      "cor": "#324ab2",
+      "nivel": 5,
+      "texto": [
+        "O que é radiogoniometria e qual o seu princípio básico de funcionamento?",
+        "Onde a radiogoniometria foi utilizada na história?",
+        "Quais são os principais tipos de antenas utilizadas?",
+        "Como os ruídos e as interferências afetam a precisão das medidas?",
+        "Como a radiogoniometria é aplicada atualmente? E qual o seu futuro?"
+      ]
+    },
+    {
+      "codigo": "LN3FR11",
+      "nome": "Línguas aux. internacionais: Esperanto",
+      "categorias": [
+        "Linguística"
+      ],
+      "efeito": false,
+      "cor": "#44b880",
+      "nivel": 7,
+      "texto": [
+        "Quem criou o Esperanto e qual era a sua motivação?",
+        "Quais as línguas que serviram de base para sua criação?",
+        "Quais são as principais características do Esperanto que o diferencia de línguas naturais?",
+        "Como é a gramática do Esperanto? Qual o vocabulário do Esperanto?",
+        "Impacto do Esperanto: número de falantes e aceitação global?"
+      ]
+    },
+    {
+      "codigo": "LN3FR12",
+      "nome": "Línguas aux. internacionais: Interlíngua",
+      "categorias": [
+        "Linguística"
+      ],
+      "efeito": false,
+      "cor": "#44b880",
+      "nivel": 7,
+      "texto": [
+        "Qual a origem da Interlíngua?",
+        "Qual o papel da IALA (International Auxiliary Language Association) na criação da Interlíngua?",
+        "Quais as principais características da gramática da Interlíngua?",
+        "Como o vocabulário da Interlíngua foi construído?",
+        "Qual o nível de difusão da Interlíngua no mundo?"
+      ]
+    },
+    {
+      "codigo": "LN3FR13",
+      "nome": "Línguas aux. internacionais: Toki Pona",
+      "categorias": [
+        "Linguística"
+      ],
+      "efeito": false,
+      "cor": "#44b880",
+      "nivel": 7,
+      "texto": [
+        "Quem criou a Toki Pona e qual era o objetivo principal? Qual a sua fiolosofia?",
+        "Quais as características mais marcantes de sua gramática?",
+        "Como o Toki Pona lida com conceitos complexos?",
+        "Qual o tamanho e a diversidade da comunidade Toki Pona?",
+        "Como o Toki Pona se compara a outras línguas construídas, como o Esperanto?"
+      ]
+    },
+    {
+      "codigo": "PS3FR14",
+      "nome": "O experimento de László Polgár",
+      "categorias": [
+        "Psicologia",
+        "Pedagogia"
+      ],
+      "efeito": false,
+      "cor": "#f8f6f0",
+      "nivel": 5,
+      "texto": [
+        "Quem é László Polgár? O que foi o experimento das irmãs Polgár?",
+        "Qual a metodologia de ensino utilizada por László Polgár para suas filhas?",
+        "Quais os resultados alcançados pelas irmãs Polgár no xadrez?",
+        "Além do xadrez, em que mais o experimento impactou as irmãs Polgár?",
+        "Quais as implicações do experimento para a educação?"
+      ]
+    },
+    {
+      "codigo": "SC3FR15",
+      "nome": "Os seis graus de separação de Milgram",
+      "categorias": [
+        "Sociologia",
+        "Filosofia",
+        "Matemática"
+      ],
+      "efeito": false,
+      "cor": "#d2122e",
+      "nivel": 6,
+      "texto": [
+        "Quem foi Stanley Milgram?",
+        "O que é o experimento dos seis graus de separação de Milgram (Ou experimento do pequeno mundo)?",
+        "Qual o contexto da formulação desse experimento e o que o inspirou?",
+        "Como foi conduzido o experimento e quais foram os resultados?",
+        "Qual o impacto das redes socias nos seis graus de separação atualmente?"
+      ]
+    },
+    {
+      "codigo": "AS3FR16",
+      "nome": "O paradoxo de Fermi",
+      "categorias": [
+        "Astronomia",
+        "Filosofia"
+      ],
+      "efeito": false,
+      "cor": "#1b0c27",
+      "nivel": 8,
+      "texto": [
+        "Quem foi Enrico Fermi?",
+        "O que diz o paradoxo de Fermi?",
+        "O que o paradoxo de fermi implica sobre a nossa existência no unviverso?",
+        "O que é a hipótese da floresta negra e como ela explica o paradoxo de Fermi? "
+      ]
+    },
+    {
+      "codigo": "BO4SM01",
+      "nome": "Organismos Geneticamente Modificados",
+      "categorias": [
+        "Biologia",
+        "Agronomia"
+      ],
+      "efeito": false,
+      "cor": "#03c03c",
+      "nivel": 6,
+      "texto": [
+        "O que é um GMO?",
+        "Qual a história dos GMOs? Como foram criados?",
+        "Qual a vantagem de alimentos geneticamente modificados?",
+        "Os alimentos geneticamente modificados causam problemas à saúde?",
+        "Qual o futuro dos GMOs em relação à alimentação da população?"
+      ]
+    },
+    {
+      "codigo": "BO4SM04",
+      "nome": "Desmatamento da Floresta Amazônica",
+      "categorias": [
+        "Biologia"
+      ],
+      "efeito": false,
+      "cor": "#03c03c",
+      "nivel": 7,
+      "texto": [
+        "Qual a importância da Floresta Amazônica para o Brasil e o mundo?",
+        "Quando começou o desmatamento na amazônia e como evoluiu ao decorrer do anos?",
+        "Quais os impactos do desmatamento na amazônia a curto prazo?",
+        "Quais os impactos do desmatamento na amazônia a longo prazo?",
+        "Como podemos parar ou diminuir esse desmatamento?"
+      ]
+    }
+  ]
